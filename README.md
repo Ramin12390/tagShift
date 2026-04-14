@@ -22,3 +22,5 @@ TagShift is a premium Windows utility designed for power users and gamers who de
 ## 🖥️ System Requirements
 *   **OS:** Windows 10 / 11 (64-bit)
 *   **Privileges:** Administrator access required for performance optimization.
+
+<img width="1210" height="880" alt="app" src="https://github.com/user-attachments/assets/499dab9a-1371-4b4a-a35d-281710adb941" />
